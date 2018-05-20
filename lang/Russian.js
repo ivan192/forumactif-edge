@@ -134,15 +134,15 @@ FAE.lang = {
 
 
     logged_out_reply : {
-      main_title : '<h2 class="lor_maintitle">Создайте учётную запись или войдите, чтобы отвечать</h2>',
+      main_title : '<h2 class="lor_maintitle">Создайте учетную запись или войдите, чтобы отвечать</h2>',
       main_desc : '<p class="lor_maindesc">Вы должны быть участником, чтобы оставить ответ.</p>',
 
-      create_account_title : '<h3 class="lor_subtitle">Создать аккаунт</h3>',
+      create_account_title : '<h3 class="lor_subtitle">Создать учетную запись</h3>',
       create_account_desc : '<p class="lor_subdesc">Присоединяйтесь к нашему сообществу, создав новую учетную запись. Это просто!</p>',
-      create_account_button : '<a href="/register" class="button1">Создать новый аккаунт</a>',
+      create_account_button : '<a href="/register" class="button1">Создать новую учетную запись</a>',
 
       log_in_title : '<h3 class="lor_subtitle">Войти</h3>',
-      log_in_desc : '<p class="lor_subdesc">У вас уже есть аккаунт? Нет проблем, войдите в систему.</p>',
+      log_in_desc : '<p class="lor_subdesc">У вас уже есть учетная запись? Нет проблем, войдите в систему.</p>',
       log_in_button : '<a href="/login" class="button1">Войти</a>'
     }
 
@@ -152,7 +152,7 @@ FAE.lang = {
   fae_cp : {
     fae_cp_main_title : 'Панель управления Forumactif Edge',
     fae_cp_desc : 'Эта панель позволяет вам устанавливать, удалять и обновлять движок <a href="https://github.com/SethClydesdale/forumactif-edge" target="_blank">Forumactif Edge</a>. Будьте готовы к тому, что ваш форум станет более современным и отзывчивым!',
-    fae_log : 'Журнал',
+    fae_log : 'Лог',
     fae_actions : 'Действия',
 
     fae_install : 'Установить',
@@ -165,22 +165,22 @@ FAE.lang = {
 
     fae_update : 'Проверить обновления',
     fae_update_good : 'Forumactif Edge является актуальным!',
-    fae_update_check : 'Проверка наличия обновлений через Github...',
+    fae_update_check : 'Проверка наличия обновлений через GitHub...',
     fae_update_prepare : 'При подготовке к выполнению обновлений не закрывайте эту вкладку...',
     fae_update_start : 'Обновления начнутся, пожалуйста, не закрывайте эту вкладку.',
     fae_update_fetch : 'Получение обновления для версии {VERSION_STRING}... ({UPDATE_MIN}/{UPDATE_MAX})',
     fae_update_notes : 'Пожалуйста <a href="{RELEASE_TAG}" target="_blank">нажмите здесь</a> для просмотра изменений, сделанных в версии{VERSION_STRING}.',
-    fae_update_error : 'Не удалось найти обновления для версии {VERSION_STRING}. Пожалуйста <a href="http://fmdesign.forumotion.com/t700-forumactif-edge-support#13923" target="_blank">откройте тикет</a> и предоставьте эту информацию для помощи.',
+    fae_update_error : 'Не удалось найти обновления для версии {VERSION_STRING}. Пожалуйста, <a href="http://fmdesign.forumotion.com/t700-forumactif-edge-support#13923" target="_blank">задайте вопрос</a> и предоставьте эту информацию для помощи.',
 
     fae_translate : 'Сменить язык',
     fae_translate_same : 'Forumactif Edge уже работает на языке: {LANG}. Пожалуйста, выберите другой язык.',
     fae_translate_warning : 'Вы уверены, что хотите изменить язык интерфейса форума на {LANG}?',
     fae_translate_start : 'В ближайшее время начнется перевод Forumactif Edge. Пожалуйста, подождите...',
-    fae_translate_get : 'Получение языковых данных - {LANG}...',
+    fae_translate_get : 'Получение языковых данных — {LANG}...',
     fae_translate_loaded : 'Языковые данные загружены. Процесс перевода начнется, пожалуйста, не закрывайте эту вкладку.',
     fae_translate_submit : 'Отправить',
     fae_translate_submit_option : 'Отправить новый перевод',
-    fae_translate_submit_confirm : 'Вы решили отправить новый перевод. Если это правильно, нажмите «ОК» и перейдите на страницу перевода, иначе нажмите «отмена» и выберите другой язык.',
+    fae_translate_submit_confirm : 'Вы решили отправить новый перевод. Если это так, нажмите «ОК» и перейдите на страницу перевода, иначе нажмите «отмена» и выберите другой язык.',
 
     configuration_title : 'Конфигурация',
     configuration_desc : 'Нажав на кнопки ниже, Вы попадете в различные разделы панели управления, которые позволят Вам управлять конфигурацией системы Forumactif Edge. Идите дальше и изучите каждый из этих разделов, чтобы начать работу с персонализацией своей темы. Если Вам нужна дополнительная информация, <a href="https://github.com/SethClydesdale/forumactif-edge/wiki/FAE-Control-Panel-Guide" target="_blank">нажмите здесь</a>, чтобы просмотреть Панель управления.',
@@ -191,8 +191,8 @@ FAE.lang = {
 
 
     welcome_message : 'Добро пожаловать в Панель управления! Панель управления позволит Вам устанавливать, обновлять, переводить и настраивать Forumactif Edge. Чтобы узнать больше об использовании Панели управления, рекомендуется прочитать <a href = "https://github.com/SethClydesdale/forumactif-edge/wiki/FAE-Control-Panel-Guide" target = "_ blank ">Руководство по панели управления</a> в Github.',
-    auto_version_local : 'Установленная версия Forumactif Edge - <a href="https://github.com/SethClydesdale/forumactif-edge/releases/tag/{VERSION_STRING}" target="_blank"> {VERSION_STRING} </a>.',
-    auto_version_github : 'Текущая версия Forumactif Edge в Github - <a href="https://github.com/SethClydesdale/forumactif-edge/releases/tag/{VERSION_STRING}" target="_blank"> {VERSION_STRING} </a>.',
+    auto_version_local : 'Установленная версия Forumactif Edge — <a href="https://github.com/SethClydesdale/forumactif-edge/releases/tag/{VERSION_STRING}" target="_blank"> {VERSION_STRING} </a>.',
+    auto_version_github : 'Текущая версия Forumactif Edge в Github — <a href="https://github.com/SethClydesdale/forumactif-edge/releases/tag/{VERSION_STRING}" target="_blank"> {VERSION_STRING} </a>.',
     update_waiting : 'Доступны обновления для Foruamctif Edge. Ознакомьтесь с <a href="https://github.com/SethClydesdale/forumactif-edge/wiki/Checking-for-updates" target="_blank">инструкцией</a> для получения дополнительной информации об обновлении.',
     release_list : 'Нажмите <a href="https://github.com/SethClydesdale/forumactif-edge/releases" target="_blank">здесь</a>, чтобы просмотреть полный список версий Forumactif Edge.',
 
@@ -259,7 +259,7 @@ FAE.lang = {
       'fae_label-color-f1' : 'Основной размер шрифта:',
       'fae_label-color-f2' : 'Основной шрифт:',
       'fae_label-color-f3' : 'Заголовок шрифта:',
-      'fae_label-color-f4' : 'Код шрифта:',
+      'fae_label-color-f4' : 'Название шрифта:',
 
       fae_save_colors : 'Обновить цвета',
       fae_default_colors : 'Вернуться к цветам по умолчанию',
@@ -295,7 +295,7 @@ FAE.lang = {
 
     plugin_management : {
       title : 'Управление плагинами',
-      fae_plugin_desc : 'Этот раздел позволяет вам управлять настройками core-плагинов для форума.',
+      fae_plugin_desc : 'Этот раздел позволяет вам управлять настройками плагинов для форума.',
 
       'fae_label-qnp' : 'Быстрая навигация:',
       'fae_plugin_tip-qnp' : 'Позиция меню быстрой навигации.',
@@ -309,7 +309,7 @@ FAE.lang = {
       fae_themer_add : 'Новая тема',
       fae_themer_import : 'Импортировать по умолчанию',
       fae_import_confirm : 'Вы хотите импортировать список тем по умолчанию из Github?',
-      fae_importing : 'Соединение с Github, пожалуйста, подождите...',
+      fae_importing : 'Соединение с GitHub, пожалуйста, подождите...',
       fae_compiling : 'Компиляция тем, подождите...',
 
       fae_save_plugins : 'Обновление плагинов',
