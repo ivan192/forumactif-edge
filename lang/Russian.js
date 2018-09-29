@@ -10,13 +10,13 @@ FAE.lang = {
     total_posts : 'Всего сообщений',
     total_topics : 'Всего тем',
     total_users : 'Всего пользователей',
-    record_users : 'Максимально пользователей в сети',
+    record_users : 'Самое большое количество пользователей в сети',
     board_age : 'Возраст форума (в днях)',
     newest_member : 'Новый пользователь:',
     hidebox : 'Скрытых:',
-    chatbox_tip : 'Наведите указатель мыши, чтобы узнать, кто в сети.',
-    chatbox_no_away : 'В настоящее время ни одного участника нет.',
-    chatbox_no_online : 'В настоящее время ни одного пользователя нет в сети.'
+    chatbox_tip : 'Наведите курсор мыши, чтобы узнать, кто в сети.',
+    chatbox_no_away : 'Сейчас нет ни одного активного пользователя.',
+    chatbox_no_online : 'Сейчас нет ни одного пользователя в сети.'
   },
 
 
@@ -92,7 +92,7 @@ FAE.lang = {
       code_copy : 'Копировать код',
       code_copied : 'Скопировано!',
 
-      toolbar_search_placeholder : 'Поиск...',
+      toolbar_search_placeholder : 'Поиск…',
 
       quick_nav_title : "title : 'Быстрая навигация'",
       quick_nav_tooltip : "tooltip : 'Включить / выключить быструю навигацию'",
@@ -142,7 +142,7 @@ FAE.lang = {
       create_account_button : '<a href="/register" class="button1">Создать новый аккаунт</a>',
 
       log_in_title : '<h3 class="lor_subtitle">Войти</h3>',
-      log_in_desc : '<p class="lor_subdesc">У вас уже есть аккаунт? Нет проблем, войдите в систему.</p>',
+      log_in_desc : '<p class="lor_subdesc">У вас уже есть учетная запись? Нет проблем, войдите в систему.</p>',
       log_in_button : '<a href="/login" class="button1">Войти</a>'
     }
 
